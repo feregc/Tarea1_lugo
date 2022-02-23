@@ -5,3 +5,6 @@ body {
     padding: 3rem 1.5rem;
     text-align: center;
 }
+.bg-dark{
+    background-color: #5C3287!important;
+}
