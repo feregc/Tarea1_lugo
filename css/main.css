@@ -7,8 +7,27 @@ body {
 }
 .bg-dark{
     background-color: #5C3287!important;
-<<<<<<< HEAD
 }
-=======
+.btn-secondary {
+    background-color: #440f71;
+    border:#440f71;
+    border-radius: 50px;
+    padding-left: 50px;
+    padding-right: 50px ;
+    
 }
->>>>>>> 695ac4ffab584424a56ce9b6bc7e5c565e55616b
+.btn-secondary:hover {
+    background-color: #7f24cf;
+    border:#851de0;
+}   
+#dropdown{
+    color: #851de0;
+    background-color: white;
+    border-radius: 50px;
+    border-color: #fff;
+    padding-left: 50px;
+    padding-right: 50px ;
+}
+
+
+
