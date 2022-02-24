@@ -70,8 +70,47 @@ body {
 .matriz{
     border-color: black;
     border-style: groove;
-    padding: 30px;
+    padding: 10px;
     border-radius: 20px;
     margin-top: 30px;
 }
+#cardTitle{
+    margin-top: 20px;
+    margin-bottom: 0px;
+    font-weight: bold;
+    font-size: 25px;
+    padding-right: 40px;
+}
 
+#cardDesc{
+    margin: 0px;
+    padding-top: 0px;
+}
+/* #cuadro-1{
+
+}
+#cuadro-2{
+    
+}
+#cuadro-3{
+    
+}
+#cuadro-4{
+    
+}
+#cuadro-5{
+    
+}
+#cuadro-6{
+    
+}
+#cuadro-7{
+    
+}
+#cuadro-8{
+    
+}
+#cuadro-9{
+    
+}
+ */
