@@ -28,6 +28,23 @@ body {
     padding-left: 50px;
     padding-right: 50px ;
 }
+#content{
+    margin-top: 10px;
+}
+.mensaje{
+    margin-top: 30px;
+    margin-bottom: 0px;
+    font-size: 30px;
+    color: #440f71;
+}
+#saludo{
+    font-size: 30px;
+    font-weight:bold;
+    margin-bottom: 0px;
+}
+#pregunta {
+    margin-top: 0px;
+}
 
 
 
