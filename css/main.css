@@ -29,5 +29,32 @@ body {
     padding-right: 50px ;
 }
 
+.navbar-brand{
+    font-weight: bolder;
+    font-size: xxx-large;
+}
 
+.mensaje{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: #440f71;
+}
+
+.saludo{
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+
+.pregunta{
+    margin-top: 0px;
+}
+
+.matriz{
+    border-color: black;
+    border-style: groove;
+    padding: 30px;
+    border-radius: 20px;
+    margin-top: 30px;
+}
 
