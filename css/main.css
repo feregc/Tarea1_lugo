@@ -46,31 +46,35 @@ body {
     margin-top: 0px;
 }
 
-.navbar-brand{
+#logo{
+    padding-left: 70px;
     font-weight: bolder;
-    font-size: xxx-large;
+    font-size: 50px;
 }
 
+
+
 .mensaje{
-    margin-top: 30px;
+    margin-top: 40px;
     margin-bottom: 20px;
-    font-size: 30px;
     color: #440f71;
 }
 
-.saludo{
+#saludo{
+    margin-top: 50px;
     margin-bottom: 0px;
     font-weight: bold;
+    font-size: larger;
 }
 
-.pregunta{
+#pregunta{
     margin-top: 0px;
 }
 
 
 .matriz{
     border-style:hidden;
-    padding: 90px;
+    padding: 10px;
     border-radius: 20px;
     margin: auto;
     margin-bottom: 30PX;
@@ -79,38 +83,133 @@ body {
 }
 #cuadro-1{
     background-color: #FADB54;
+    padding-top: 20px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    margin: 10px;
+    margin-bottom:10px;
     
 }
 #cuadro-2{
     background-color: #9CC1E6;
+    padding-top: 20px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    margin: 10px;
+    margin-bottom:10px;
 }
 #cuadro-3{
     background-color: #9482C4;
+    padding-top: 20px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    margin: 10px;
+    margin-bottom:10px;
 }
 #cuadro-4{
     background-color: #D98F6D;
+    padding-top: 20px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    margin: 10px;
+    margin-bottom:10px;
 }
 #cuadro-5{
     background-color: #F3ADAC;
+    padding-top: 20px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    margin: 10px;
+    margin-bottom:10px;
 }
 #cuadro-6{
     background-color: #CFB8EF;
+    padding-top: 20px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    margin: 10px;
+    margin-bottom:10px;
 }
 #cuadro-7{
     background-color: #F3ADAC;
+    padding-top: 20px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    margin: 10px;
+    margin-bottom:10px;
 }
 #cuadro-8{
     background-color: #60CFB0;
+    padding-top: 20px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    margin: 10px;
+    margin-bottom:10px;
 }
 #cuadro-9{
     background-color: #D7D5DE;
+    padding-top: 20px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    margin: 10px;
+    margin-bottom:10px;
 }
 #cuadro-10{
     background-color: #8ACEFB;
+    padding-top: 20px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    margin: 10px;
+    margin-bottom:10px;
 }
 #cuadro-11{
     background-color: #F3AC85;
+    padding-top: 20px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    margin: 10px;
+    margin-bottom:10px;
 }
 #cuadro-12{
     background-color: #9BE2E2;
+    padding-top: 20px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    margin: 10px;
+    margin-bottom:10px;
 }
+
+.icono{
+    background-color: white;
+    font-size:15px;
+    color: #440f71;
+    font-weight: 900;
+    padding-left: 1rem;
+    padding-right: 2rem;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 8px;
+    margin-right: 7.5rem;
+    
+}
+#cardTitle{
+    margin-bottom: 0;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-top: 30px;
+    color: white;
+    font-weight: bolder;
+    font-size:30px;
+}
+
+#cardDesc{
+    margin-bottom: 0;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-size: 20px;
+}
+.col-3{
+    padding: 0;
+}
+
